@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=blog_app-apis/C:\/Users\/BAIBHAV KUMAR\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.4.33\/hibernate-core-5.4.33.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.4.33=/=/maven.scope=/compile=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="33" timestamp="1652720754917"/>
+    <typeInfo handle="=blog_app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codewithdurgesh.blog.services{UserService.java[UserService" modifiers="513" timestamp="1653034280950"/>
+    <typeInfo handle="=blog_app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codewithdurgesh.blog.services{CategoryService.java[CategoryService" modifiers="513" timestamp="1653275719234"/>
+    <typeInfo handle="=locationweb/C:\/Users\/BAIBHAV KUMAR\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.0\/spring-data-jpa-2.7.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.0=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1654188923387"/>
+    <typeInfo handle="=customer-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Customer.Service.Services{CustomerService.java[CustomerService" modifiers="513" timestamp="1654714953719"/>
+</typeInfoHistroy>
